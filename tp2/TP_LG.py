@@ -32,3 +32,11 @@ for i in range(1,30):
   kmeans_pca = KMeans(n_clusters = i, init = "k-means++", random_state = 42)
   kmeans_pca.fit(scores_pca)
   WCSS.append(kmeans_pca.inertia_)
+
+
+
+  df.sort_values("positive", ascending=False).head(1)
+
+
+
+#https://www.datacamp.com/fr/tutorial/introduction-t-sne
