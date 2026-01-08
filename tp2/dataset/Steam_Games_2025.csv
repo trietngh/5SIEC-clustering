@@ -56728,7 +56728,7 @@ appid,name,release_date,required_age,price,dlc_count,metacritic_score,achievemen
 2489250,Meatgrinder,2024-04-08,0,2.99,0,0,15,0,"['Single-player', 'Steam Cloud', 'Family Sharing']",0,0,0,0,-1,-1
 2511610,Boxes,2023-08-01,0,0.99,0,0,0,0,"['Single-player', 'Family Sharing']",0,0,0,0,-1,-1
 2496720,Bushido Saga: Nightmare of the Samurai,2023-08-20,0,14.99,0,0,0,0,"['Single-player', 'Family Sharing']",0,0,0,0,-1,-1
-431960,Wallpaper Engine,2018-11-16,0,4.99,1,0,17,809225,"['Steam Achievements', 'Steam Trading Cards', 'Steam Workshop', 'Steam Workshop', 'Includes level editor']",855816,17140,0,120461,-1,-1
+431960,Wallpaper Engine,2018-11-16,0,4.99,1,0,17,809225,"['Steam Achievements', 'Steam Trading Cards', 'Steam Workshop', 'Steam Workshop', 'Includes level editor']",855816,17140,0,120461,98,239047
 2730630,Shape Shifter,2024-01-02,0,5.99,0,0,0,0,[],0,0,0,0,-1,-1
 3316170,Binarycurse,2024-11-21,0,0.99,0,0,0,0,"['Single-player', 'Family Sharing']",0,0,0,0,-1,-1
 840510,Furious Drivers,2020-02-04,0,9.99,0,0,0,0,"['Multi-player', 'PvP', 'Online PvP', 'Co-op', 'Online Co-op', 'Partial Controller Support', 'Family Sharing']",0,1,0,0,-1,-1
